@@ -16,7 +16,14 @@ Mathematically, vectors have the following properties:
 
 ## Magnitude and Direction (Euclidean Vectors)
 ## Vector Addition
+Vectors may be added together by joining them head (pointed side) to tale (stick side). The order of addition does not matter.
+
 ## Vector Multiplication
+There are three different ways to multiply vectors.
 ### Scalar Multiplication
+
 ### Dot/Inner Product
+Dot/Inner product multiplication indicates the magnitude to which the multiplied vectors point in the same direction. The resultant is a **scalar**.
+
 ### Cross Product
+Cross product multiplication indicates the area of the parallelogram formed by the multiplied vectors. The resultant is a **vector**.
